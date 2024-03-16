@@ -11,7 +11,7 @@ Welcome to the API Hub Repository, a collection of various APIs for your develop
 
 ### Getting Started
 
-To get started with the API Hub Repository, follow these steps:
+To get started with the API Hub Repository, follow these steps :
 
 1. **Create a new file or upload an existing one**: If you have an API you'd like to contribute, simply create a new file or upload an existing one to this repository.
 2. **Include a README**: We recommend including a README for each API to ensure proper documentation and usage instructions.
